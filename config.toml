@@ -32,3 +32,14 @@ theme = "coder"
   icon = "fa fa-linkedin fa-2x"
   weight = 3
   url = "https://www.linkedin.com/in/guillaumededrie/"
+
+[[params.social]]
+  name = "Resume"
+  icon = "fa fa-id-card fa-2x"
+  weight = 4
+  url = "/files/Guillaume%20Dedrie%20-%20Resume.pdf"
+
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
