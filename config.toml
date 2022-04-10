@@ -1,0 +1,30 @@
+baseURL = "https://guillaumededrie.github.io/"
+languageCode = "en-us"
+title = "Guillaume Dedrie"
+theme = "coder"
+
+[params]
+  author = "Guillaume Dedrie"
+  info = "Cyber Security Software Engineer"
+  keywords = "cyber, security, personal, blog"
+  avatarurl = "images/avatar.png"
+  commit = "https://github.com/guillaumededrie/guillaumededrie.github.io/tree"
+  customSCSS = ["styles/custom.scss"]
+
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/guillaumededrie/"
+
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 2
+  url = "https://twitter.com/guillaumededrie/"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 3
+  url = "https://www.linkedin.com/in/guillaumededrie/"
