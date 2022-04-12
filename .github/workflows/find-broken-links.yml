@@ -1,0 +1,19 @@
+name: Find Broken Links
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_run:
+    workflows: [GitHub Pages]
+    types:
+      - completed
+
+jobs:
+  find_broken_links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Extract sitemap.xml urls
+        run: grep --only-matching --perl-regexp --max-count=1 "(?<=loc>)[^<]+" <<< $(curl https://guillaume.dedrie.fr/sitemap.xml) > urls.txt
+
+      - name: Tests URLs
+        run: wget --spider --recursive --no-directories --span-hosts --level=1 --wait 1 --input-file=urls.txt
