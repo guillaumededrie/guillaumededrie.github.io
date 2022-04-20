@@ -2,14 +2,14 @@ baseURL = "https://guillaume.dedrie.fr/"
 languageCode = "en-us"
 title = "Guillaume Dedrie"
 theme = "coder"
+enableGitInfo = true
 
 [params]
   author = "Guillaume Dedrie"
   info = "Cyber Security Software Engineer"
   keywords = "cyber, security, personal, blog"
   avatarurl = "images/avatar.png"
-
-  commit = "https://github.com/guillaumededrie/guillaumededrie.github.io/tree/"
+  commit = "https://github.com/guillaumededrie/guillaumededrie.github.io/tree"
 
   colorScheme = "light"
   hideColorSchemeToggle = true
