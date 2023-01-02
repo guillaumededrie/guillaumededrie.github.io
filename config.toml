@@ -6,7 +6,7 @@ enableGitInfo = true
 
 [params]
   author = "Guillaume Dedrie"
-  info = "Cyber Security Software Engineer"
+  info = "Cyber Security Site Reliability Engineer"
   keywords = "cyber, security, personal, blog"
   avatarurl = "images/avatar.png"
   commit = "https://github.com/guillaumededrie/guillaumededrie.github.io/tree"

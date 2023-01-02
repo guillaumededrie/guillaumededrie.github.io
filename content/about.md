@@ -3,7 +3,7 @@ title = "About Me"
 date = "2022-04-10"
 +++
 
-I'm Guillaume, a French Cyber Security Software Engineer working as both {{< abbr title="Site Reliability Engineer" text="SRE" >}} and fullstack developer.
+I'm Guillaume, a French Cyber Security {{< abbr title="Site Reliability Engineer" text="SRE" >}}.
 I'm also performing Security Audit (known as Pentest) from time to time.
 
 Before that, I have worked as an Agile Web developer for a consulting company.
