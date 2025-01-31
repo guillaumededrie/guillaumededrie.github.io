@@ -17,7 +17,7 @@ My Full Resume is available [here](/files/Guillaume%20Dedrie%20-%20Resume.pdf).
 
 ## Contact
 
-Find me on {{< fa linkedin >}} [LinkedIn](https://www.linkedin.com/in/guillaumededrie/) and {{< fa twitter >}} [Twitter](https://twitter.com/guillaumededrie/).
+Find me on {{< fa linkedin >}} [LinkedIn](https://www.linkedin.com/in/guillaumededrie/).
 
 {{< fa key-modern >}} GPG: [24CF4A6F](/files/24CF4A6F.asc) - [keys.opengpg.org](https://keys.openpgp.org/vks/v1/by-fingerprint/A54795ABE00455F6BC4CADA51E85134124CF4A6F)
 

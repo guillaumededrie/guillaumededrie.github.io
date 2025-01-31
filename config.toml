@@ -22,12 +22,6 @@ enableGitInfo = true
   url = "https://github.com/guillaumededrie/"
 
 [[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
-  weight = 2
-  url = "https://twitter.com/guillaumededrie/"
-
-[[params.social]]
   name = "LinkedIn"
   icon = "fa fa-linkedin fa-2x"
   weight = 3
